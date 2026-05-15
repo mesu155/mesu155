@@ -1,7 +1,7 @@
 <h1 align="center">Bem-Vindo(a)!<br>Olá!  Meu nome é Samy😘</h1>
 <p>Samara Rodrigues • Estudante de Cibersegurança | Cloud Computing | Hospedagem de Sistemas | Construindo conhecimento e desenvolvendo projetos na área de tecnologia.
 </p>
-###
+
 
 <div align="center">
 </div>
