@@ -48,6 +48,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mesu155/mesu155/output/snake.svg" alt="Snake animation" />
 
-###
